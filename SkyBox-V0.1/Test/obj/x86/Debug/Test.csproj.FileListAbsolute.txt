@@ -1,0 +1,8 @@
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\Test\bin\x86\Debug\Test.exe.config
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\Test\bin\x86\Debug\Test.exe
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\Test\bin\x86\Debug\Test.pdb
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\Test\obj\x86\Debug\Test.Form1.resources
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\Test\obj\x86\Debug\Test.Properties.Resources.resources
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\Test\obj\x86\Debug\Test.exe
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\Test\obj\x86\Debug\Test.pdb

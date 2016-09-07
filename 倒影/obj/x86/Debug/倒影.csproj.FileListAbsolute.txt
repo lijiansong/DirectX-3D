@@ -1,0 +1,8 @@
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\倒影\bin\x86\Debug\倒影.exe.config
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\倒影\bin\x86\Debug\倒影.exe
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\倒影\bin\x86\Debug\倒影.pdb
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\倒影\obj\x86\Debug\倒影.MainForm.resources
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\倒影\obj\x86\Debug\倒影.Properties.Resources.resources
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\倒影\obj\x86\Debug\倒影.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\倒影\obj\x86\Debug\倒影.exe
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\倒影\obj\x86\Debug\倒影.pdb

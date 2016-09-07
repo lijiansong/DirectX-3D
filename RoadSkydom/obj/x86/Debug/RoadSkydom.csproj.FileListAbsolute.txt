@@ -1,0 +1,9 @@
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\RoadSkydom\obj\x86\Debug\RoadSkydom.csprojResolveAssemblyReference.cache
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\RoadSkydom\obj\x86\Debug\RoadSkydom.RoadSkydom.resources
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\RoadSkydom\obj\x86\Debug\RoadSkydom.Properties.Resources.resources
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\RoadSkydom\obj\x86\Debug\RoadSkydom.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\RoadSkydom\bin\x86\Debug\RoadSkydom.exe.config
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\RoadSkydom\bin\x86\Debug\RoadSkydom.exe
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\RoadSkydom\bin\x86\Debug\RoadSkydom.pdb
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\RoadSkydom\obj\x86\Debug\RoadSkydom.exe
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\RoadSkydom\obj\x86\Debug\RoadSkydom.pdb

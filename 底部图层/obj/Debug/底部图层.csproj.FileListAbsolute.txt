@@ -1,0 +1,9 @@
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\底部图层\bin\Debug\底部图层.exe.config
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\底部图层\bin\Debug\底部图层.exe
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\底部图层\bin\Debug\底部图层.pdb
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\底部图层\obj\Debug\底部图层.csprojResolveAssemblyReference.cache
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\底部图层\obj\Debug\底部图层.Form1.resources
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\底部图层\obj\Debug\底部图层.Properties.Resources.resources
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\底部图层\obj\Debug\底部图层.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\底部图层\obj\Debug\底部图层.exe
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\底部图层\obj\Debug\底部图层.pdb

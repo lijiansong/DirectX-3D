@@ -1,0 +1,9 @@
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\高程图并显示周边\bin\x86\Debug\高程图并显示周边.exe.config
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\高程图并显示周边\bin\x86\Debug\高程图并显示周边.exe
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\高程图并显示周边\bin\x86\Debug\高程图并显示周边.pdb
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\高程图并显示周边\obj\x86\Debug\高程图并显示周边.csprojResolveAssemblyReference.cache
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\高程图并显示周边\obj\x86\Debug\高程图并显示周边.MainForm.resources
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\高程图并显示周边\obj\x86\Debug\高程图并显示周边.Properties.Resources.resources
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\高程图并显示周边\obj\x86\Debug\高程图并显示周边.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\高程图并显示周边\obj\x86\Debug\高程图并显示周边.exe
+F:\workdir\Ditect3D\VC# Based DX\只显示高程图\高程图并显示周边\obj\x86\Debug\高程图并显示周边.pdb

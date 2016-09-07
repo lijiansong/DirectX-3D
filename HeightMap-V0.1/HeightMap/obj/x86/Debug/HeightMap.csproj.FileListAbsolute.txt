@@ -1,0 +1,8 @@
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\HeightMap\bin\x86\Debug\HeightMap.exe.config
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\HeightMap\bin\x86\Debug\HeightMap.exe
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\HeightMap\bin\x86\Debug\HeightMap.pdb
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\HeightMap\obj\x86\Debug\HeightMap.MainForm.resources
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\HeightMap\obj\x86\Debug\HeightMap.Properties.Resources.resources
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\HeightMap\obj\x86\Debug\HeightMap.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\HeightMap\obj\x86\Debug\HeightMap.exe
+F:\workdir\Ditect3D\VC# Based DX\加载纹理\HeightMap\obj\x86\Debug\HeightMap.pdb
