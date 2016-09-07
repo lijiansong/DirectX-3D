@@ -1,0 +1,9 @@
+F:\workdir\Ditect3D\Direct3D\Direct3D\bin\x86\Debug\Direct3D.exe
+F:\workdir\Ditect3D\Direct3D\Direct3D\bin\x86\Debug\Direct3D.pdb
+F:\workdir\Ditect3D\Direct3D\Direct3D\obj\x86\Debug\Direct3D.csprojResolveAssemblyReference.cache
+F:\workdir\Ditect3D\Direct3D\Direct3D\obj\x86\Debug\Direct3D.Properties.Resources.resources
+F:\workdir\Ditect3D\Direct3D\Direct3D\obj\x86\Debug\Direct3D.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\Direct3D\Direct3D\obj\x86\Debug\Direct3D.exe
+F:\workdir\Ditect3D\Direct3D\Direct3D\obj\x86\Debug\Direct3D.pdb
+F:\workdir\Ditect3D\Direct3D\Direct3D\obj\x86\Debug\Direct3D.Form1.resources
+F:\workdir\Ditect3D\Direct3D\Direct3D\bin\x86\Debug\Direct3D.exe.config

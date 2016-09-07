@@ -1,0 +1,8 @@
+F:\workdir\Ditect3D\Direct3D\聚光灯照亮三角形\bin\x86\Debug\聚光灯照亮三角形.exe.config
+F:\workdir\Ditect3D\Direct3D\聚光灯照亮三角形\bin\x86\Debug\聚光灯照亮三角形.exe
+F:\workdir\Ditect3D\Direct3D\聚光灯照亮三角形\bin\x86\Debug\聚光灯照亮三角形.pdb
+F:\workdir\Ditect3D\Direct3D\聚光灯照亮三角形\obj\x86\Debug\聚光灯照亮三角形.Form1.resources
+F:\workdir\Ditect3D\Direct3D\聚光灯照亮三角形\obj\x86\Debug\聚光灯照亮三角形.Properties.Resources.resources
+F:\workdir\Ditect3D\Direct3D\聚光灯照亮三角形\obj\x86\Debug\聚光灯照亮三角形.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\Direct3D\聚光灯照亮三角形\obj\x86\Debug\聚光灯照亮三角形.exe
+F:\workdir\Ditect3D\Direct3D\聚光灯照亮三角形\obj\x86\Debug\聚光灯照亮三角形.pdb

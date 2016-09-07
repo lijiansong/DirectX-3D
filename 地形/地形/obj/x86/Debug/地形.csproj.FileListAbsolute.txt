@@ -1,0 +1,9 @@
+F:\workdir\Ditect3D\VC# Based DX\地形\地形\bin\x86\Debug\地形.exe.config
+F:\workdir\Ditect3D\VC# Based DX\地形\地形\bin\x86\Debug\地形.exe
+F:\workdir\Ditect3D\VC# Based DX\地形\地形\bin\x86\Debug\地形.pdb
+F:\workdir\Ditect3D\VC# Based DX\地形\地形\obj\x86\Debug\地形.Form1.resources
+F:\workdir\Ditect3D\VC# Based DX\地形\地形\obj\x86\Debug\地形.Properties.Resources.resources
+F:\workdir\Ditect3D\VC# Based DX\地形\地形\obj\x86\Debug\地形.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\VC# Based DX\地形\地形\obj\x86\Debug\地形.exe
+F:\workdir\Ditect3D\VC# Based DX\地形\地形\obj\x86\Debug\地形.pdb
+F:\workdir\Ditect3D\VC# Based DX\地形\地形\obj\x86\Debug\地形.csprojResolveAssemblyReference.cache

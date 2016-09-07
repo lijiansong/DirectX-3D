@@ -1,0 +1,8 @@
+F:\workdir\Ditect3D\Direct3D\VertexBufferTest\bin\Debug\VertexBufferTest.exe.config
+F:\workdir\Ditect3D\Direct3D\VertexBufferTest\bin\Debug\VertexBufferTest.exe
+F:\workdir\Ditect3D\Direct3D\VertexBufferTest\bin\Debug\VertexBufferTest.pdb
+F:\workdir\Ditect3D\Direct3D\VertexBufferTest\obj\Debug\VertexBufferTest.Form1.resources
+F:\workdir\Ditect3D\Direct3D\VertexBufferTest\obj\Debug\VertexBufferTest.Properties.Resources.resources
+F:\workdir\Ditect3D\Direct3D\VertexBufferTest\obj\Debug\VertexBufferTest.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\Direct3D\VertexBufferTest\obj\Debug\VertexBufferTest.exe
+F:\workdir\Ditect3D\Direct3D\VertexBufferTest\obj\Debug\VertexBufferTest.pdb

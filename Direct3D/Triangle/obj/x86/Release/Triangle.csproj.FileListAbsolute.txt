@@ -1,0 +1,6 @@
+F:\workdir\Ditect3D\Direct3D\Triangle\bin\x86\Release\Triangle.exe.config
+F:\workdir\Ditect3D\Direct3D\Triangle\bin\x86\Release\Triangle.exe
+F:\workdir\Ditect3D\Direct3D\Triangle\obj\x86\Release\Triangle.Form1.resources
+F:\workdir\Ditect3D\Direct3D\Triangle\obj\x86\Release\Triangle.Properties.Resources.resources
+F:\workdir\Ditect3D\Direct3D\Triangle\obj\x86\Release\Triangle.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\Direct3D\Triangle\obj\x86\Release\Triangle.exe

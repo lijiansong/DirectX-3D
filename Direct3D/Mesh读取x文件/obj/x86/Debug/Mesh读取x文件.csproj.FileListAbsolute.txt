@@ -1,0 +1,9 @@
+F:\workdir\Ditect3D\Direct3D\Mesh读取x文件\bin\x86\Debug\Mesh读取x文件.exe.config
+F:\workdir\Ditect3D\Direct3D\Mesh读取x文件\bin\x86\Debug\Mesh读取x文件.exe
+F:\workdir\Ditect3D\Direct3D\Mesh读取x文件\bin\x86\Debug\Mesh读取x文件.pdb
+F:\workdir\Ditect3D\Direct3D\Mesh读取x文件\obj\x86\Debug\Mesh读取x文件.csprojResolveAssemblyReference.cache
+F:\workdir\Ditect3D\Direct3D\Mesh读取x文件\obj\x86\Debug\Mesh读取x文件.Form1.resources
+F:\workdir\Ditect3D\Direct3D\Mesh读取x文件\obj\x86\Debug\Mesh读取x文件.Properties.Resources.resources
+F:\workdir\Ditect3D\Direct3D\Mesh读取x文件\obj\x86\Debug\Mesh读取x文件.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\Direct3D\Mesh读取x文件\obj\x86\Debug\Mesh读取x文件.exe
+F:\workdir\Ditect3D\Direct3D\Mesh读取x文件\obj\x86\Debug\Mesh读取x文件.pdb

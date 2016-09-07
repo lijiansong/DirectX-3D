@@ -1,0 +1,9 @@
+F:\workdir\Ditect3D\Direct3D\正方形添加多纹理\bin\x86\Debug\正方形添加多纹理.exe.config
+F:\workdir\Ditect3D\Direct3D\正方形添加多纹理\bin\x86\Debug\正方形添加多纹理.exe
+F:\workdir\Ditect3D\Direct3D\正方形添加多纹理\bin\x86\Debug\正方形添加多纹理.pdb
+F:\workdir\Ditect3D\Direct3D\正方形添加多纹理\obj\x86\Debug\正方形添加多纹理.Form1.resources
+F:\workdir\Ditect3D\Direct3D\正方形添加多纹理\obj\x86\Debug\正方形添加多纹理.Properties.Resources.resources
+F:\workdir\Ditect3D\Direct3D\正方形添加多纹理\obj\x86\Debug\正方形添加多纹理.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\Direct3D\正方形添加多纹理\obj\x86\Debug\正方形添加多纹理.exe
+F:\workdir\Ditect3D\Direct3D\正方形添加多纹理\obj\x86\Debug\正方形添加多纹理.pdb
+F:\workdir\Ditect3D\Direct3D\正方形添加多纹理\obj\x86\Debug\正方形添加多纹理.csprojResolveAssemblyReference.cache

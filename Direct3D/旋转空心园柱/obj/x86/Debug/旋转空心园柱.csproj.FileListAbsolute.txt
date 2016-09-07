@@ -1,0 +1,9 @@
+F:\workdir\Ditect3D\Direct3D\旋转空心园柱\bin\x86\Debug\旋转空心园柱.exe.config
+F:\workdir\Ditect3D\Direct3D\旋转空心园柱\bin\x86\Debug\旋转空心园柱.exe
+F:\workdir\Ditect3D\Direct3D\旋转空心园柱\bin\x86\Debug\旋转空心园柱.pdb
+F:\workdir\Ditect3D\Direct3D\旋转空心园柱\obj\x86\Debug\旋转空心园柱.csprojResolveAssemblyReference.cache
+F:\workdir\Ditect3D\Direct3D\旋转空心园柱\obj\x86\Debug\旋转空心园柱.Form1.resources
+F:\workdir\Ditect3D\Direct3D\旋转空心园柱\obj\x86\Debug\旋转空心园柱.Properties.Resources.resources
+F:\workdir\Ditect3D\Direct3D\旋转空心园柱\obj\x86\Debug\旋转空心园柱.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\Direct3D\旋转空心园柱\obj\x86\Debug\旋转空心园柱.exe
+F:\workdir\Ditect3D\Direct3D\旋转空心园柱\obj\x86\Debug\旋转空心园柱.pdb

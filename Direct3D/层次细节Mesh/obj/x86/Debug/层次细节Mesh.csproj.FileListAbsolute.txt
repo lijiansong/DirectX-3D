@@ -1,0 +1,8 @@
+F:\workdir\Ditect3D\Direct3D\层次细节Mesh\bin\x86\Debug\层次细节Mesh.exe.config
+F:\workdir\Ditect3D\Direct3D\层次细节Mesh\bin\x86\Debug\层次细节Mesh.exe
+F:\workdir\Ditect3D\Direct3D\层次细节Mesh\bin\x86\Debug\层次细节Mesh.pdb
+F:\workdir\Ditect3D\Direct3D\层次细节Mesh\obj\x86\Debug\层次细节Mesh.Form1.resources
+F:\workdir\Ditect3D\Direct3D\层次细节Mesh\obj\x86\Debug\层次细节Mesh.Properties.Resources.resources
+F:\workdir\Ditect3D\Direct3D\层次细节Mesh\obj\x86\Debug\层次细节Mesh.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\Direct3D\层次细节Mesh\obj\x86\Debug\层次细节Mesh.exe
+F:\workdir\Ditect3D\Direct3D\层次细节Mesh\obj\x86\Debug\层次细节Mesh.pdb

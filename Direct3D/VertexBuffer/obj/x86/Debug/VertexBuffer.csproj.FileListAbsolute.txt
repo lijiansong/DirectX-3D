@@ -1,0 +1,2 @@
+F:\workdir\Ditect3D\Direct3D\VertexBuffer\obj\x86\Debug\VertexBufferTest.Properties.Resources.resources
+F:\workdir\Ditect3D\Direct3D\VertexBuffer\obj\x86\Debug\VertexBuffer.csproj.GenerateResource.Cache

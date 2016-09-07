@@ -1,0 +1,9 @@
+F:\workdir\Ditect3D\Direct3D\3D字体\bin\x86\Debug\3D字体.exe.config
+F:\workdir\Ditect3D\Direct3D\3D字体\bin\x86\Debug\3D字体.exe
+F:\workdir\Ditect3D\Direct3D\3D字体\bin\x86\Debug\3D字体.pdb
+F:\workdir\Ditect3D\Direct3D\3D字体\obj\x86\Debug\3D字体.csprojResolveAssemblyReference.cache
+F:\workdir\Ditect3D\Direct3D\3D字体\obj\x86\Debug\_3D字体.Form1.resources
+F:\workdir\Ditect3D\Direct3D\3D字体\obj\x86\Debug\_3D字体.Properties.Resources.resources
+F:\workdir\Ditect3D\Direct3D\3D字体\obj\x86\Debug\3D字体.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\Direct3D\3D字体\obj\x86\Debug\3D字体.exe
+F:\workdir\Ditect3D\Direct3D\3D字体\obj\x86\Debug\3D字体.pdb

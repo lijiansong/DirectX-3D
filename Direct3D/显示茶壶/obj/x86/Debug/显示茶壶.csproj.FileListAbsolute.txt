@@ -1,0 +1,9 @@
+F:\workdir\Ditect3D\Direct3D\显示茶壶\bin\x86\Debug\显示茶壶.exe.config
+F:\workdir\Ditect3D\Direct3D\显示茶壶\bin\x86\Debug\显示茶壶.exe
+F:\workdir\Ditect3D\Direct3D\显示茶壶\bin\x86\Debug\显示茶壶.pdb
+F:\workdir\Ditect3D\Direct3D\显示茶壶\obj\x86\Debug\显示茶壶.csprojResolveAssemblyReference.cache
+F:\workdir\Ditect3D\Direct3D\显示茶壶\obj\x86\Debug\显示茶壶.Form1.resources
+F:\workdir\Ditect3D\Direct3D\显示茶壶\obj\x86\Debug\显示茶壶.Properties.Resources.resources
+F:\workdir\Ditect3D\Direct3D\显示茶壶\obj\x86\Debug\显示茶壶.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\Direct3D\显示茶壶\obj\x86\Debug\显示茶壶.exe
+F:\workdir\Ditect3D\Direct3D\显示茶壶\obj\x86\Debug\显示茶壶.pdb

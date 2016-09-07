@@ -1,0 +1,9 @@
+F:\workdir\Ditect3D\Direct3D\光照立方体\bin\x86\Debug\光照立方体.exe.config
+F:\workdir\Ditect3D\Direct3D\光照立方体\bin\x86\Debug\光照立方体.exe
+F:\workdir\Ditect3D\Direct3D\光照立方体\bin\x86\Debug\光照立方体.pdb
+F:\workdir\Ditect3D\Direct3D\光照立方体\obj\x86\Debug\光照立方体.Form1.resources
+F:\workdir\Ditect3D\Direct3D\光照立方体\obj\x86\Debug\光照立方体.Properties.Resources.resources
+F:\workdir\Ditect3D\Direct3D\光照立方体\obj\x86\Debug\光照立方体.csproj.GenerateResource.Cache
+F:\workdir\Ditect3D\Direct3D\光照立方体\obj\x86\Debug\光照立方体.exe
+F:\workdir\Ditect3D\Direct3D\光照立方体\obj\x86\Debug\光照立方体.pdb
+F:\workdir\Ditect3D\Direct3D\光照立方体\obj\x86\Debug\光照立方体.csprojResolveAssemblyReference.cache
